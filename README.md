@@ -13,6 +13,6 @@ java *NombreDelPrograma*
 
 ## :books: LIBRO UTILIZADO
 
-El libro utilizado en la asignatura (Aprende Java con Ejercicios) lo puedes conseguir en (https://leanpub.com/aprendejava) :relaxed:
+El libro utilizado en la asignatura es [Aprende Java con Ejercicios](https://leanpub.com/aprendejava) :relaxed:
 
 <img src="imagenes/aprendejava.jpeg" width="240px">
