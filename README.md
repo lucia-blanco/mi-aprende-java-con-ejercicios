@@ -1,3 +1,7 @@
+## :pencil: DESCRIPCIÓN
+
+Solución a los ejercicios del libro Aprende Java con Ejercicios para la asignatura de Programación en el CFGS de DAW (Desarrollo de Aplicaciones Web) en @IESCampanillas.
+
 ## :computer: COMPILACIÓN Y EJECUCIÓN DE LOS PROGRAMAS
 
 Para compilar el programa, teclea lo siguiente (es necesario tener el JDK):
