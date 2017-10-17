@@ -6,8 +6,9 @@
 
 public class Ejercicio07_3 { // Clase principal
   public static void main(String[] args) {
+    final int IVA = 21;
     String linea;
-    int IVA = 21;
+    
     /* Recoge la base imponible */
     System.out.print("Por favor, introduce la base imponible: ");
     linea = System.console().readLine();
