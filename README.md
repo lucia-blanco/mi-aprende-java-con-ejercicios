@@ -6,6 +6,7 @@
   + [Tema 01](#tema1)
   + [Tema 02](#tema2)
   + [Tema 03](#tema3)
+  + [Tema 04](#tema4)
 
 <a name="descripcion"/>
 
@@ -98,10 +99,33 @@ introducidos por teclado.
 imponible.
 8. Escribe un programa que calcule el salario semanal de un empleado en base
 a las horas trabajadas, a razón de 12 euros la hora.
-9. Escribe un programa que calcule el volumen de un cono según la fórmula V = 1/3r2h
+9. Escribe un programa que calcule el volumen de un cono.
 10. Realiza un conversor de Mb a Kb.
 11. Realiza un conversor de Kb a Mb.
 12. Realiza un programa que calcule la nota que hace falta sacar en el segundo
 examen de la asignatura Programación para obtener la media deseada. Hay
 que tener en cuenta que la nota del primer examen cuenta el 40% y la del
 segundo examen un 60%.
+
+<a name="tema4"/>
+
+### TEMA 04
+
+1. Escribe un programa que pida por teclado un día de la semana y que diga qué
+asignatura toca a primera hora ese día.
+
+2. Realiza un programa que pida una hora por teclado y que muestre luego
+buenos días, buenas tardes o buenas noches según la hora.
+3. Escribe un programa en que dado un número del 1 a 7 escriba el correspondiente
+nombre del día de la semana.
+4. Escribe un programa que calcule el salario semanal de un
+trabajador teniendo en cuenta que las horas ordinarias se pagan a 12 euros la hora. 
+A partir de la hora 41, se pagan a 16 euros la hora.
+5. Realiza un programa que resuelva una ecuación de primer grado
+6. Realiza un programa que calcule el tiempo que tardará en caer un objeto desde
+una altura h.
+7. Realiza un programa que calcule la media de tres notas.
+8. Amplía el programa anterior para que diga la nota del boletín.
+9. Realiza un programa que resuelva una ecuación de segundo grado.
+10. Escribe un programa que nos diga el horóscopo a partir del día y el mes de
+nacimiento.
