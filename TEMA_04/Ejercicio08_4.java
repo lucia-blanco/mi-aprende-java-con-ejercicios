@@ -17,22 +17,18 @@
     /* Calcula la media */
     double media = (nota1+nota2+nota3)/3;
     /* if para decir la nota */
-    if ((media >= 0)&&(media < 5)){
+    if (media < 5){
       boletin = "insuficiente";
-    } 
-    else if ((media >= 5)&&(media < 6)){
+    } else if (media < 6){
       boletin = "suficiente";
-    } 
-    else if ((media >= 6)&&(media < 7)){
+    } else if (media < 7){
       boletin = "bien";
-    } 
-    else if ((media >= 7)&&(media < 9)){
+    } else if (media < 9){
       boletin = "notable";
-    } 
-    else if ((media >= 9)&&(media <= 10)){
+    } else if (media <= 10){
       boletin = "sobresaliente";
     } else {
-      boletin = "errónea, revisa los datos";
+      System.out.println("Una de las notas es incorrecta, vuelve a introducirlas.");
     }
     System.out.printf("Su nota en el boletín es: %s.", boletin);
   }
