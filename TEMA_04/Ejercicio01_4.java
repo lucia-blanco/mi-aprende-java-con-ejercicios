@@ -9,27 +9,24 @@ public class Ejercicio01_4 { // Clase principal
     
     String diaSem;
     /* Recoge dia de la semana */
-    System.out.print("Por favor, introduce un dia de la semana (lunes a viernes) en minúsculas: ");
-    diaSem = System.console().readLine();
+    System.out.print("Por favor, introduce un dia de la semana: ");
+    diaSem = System.console().readLine().toLowerCase();
     /* Switch para encontrar asignatura */
     switch (diaSem){
         case "lunes":
-          System.out.print("Hay Sistemas Informáticos.");
-          break;
-        case "martes":
-          System.out.print("Hay Programación.");
-          break;
         case "miércoles":
           System.out.print("Hay Sistemas Informáticos.");
           break;
+        case "martes":
         case "jueves":
-          System.out.print("Hay Programación.");
-          break;
         case "viernes":
           System.out.print("Hay Programación.");
           break;
+        case "sábado":
+        case "domingo":
+          System.out.print("No hay clase.");
         default:
-          System.out.print("¿Qué parte de dia de la semana (lunes a viernes) en minúsculas no entendiste?");
+          System.out.print("¿Qué parte de dia de la semana no entendiste?");
     }
   }
 }

@@ -17,19 +17,19 @@
     /* Calcula la media */
     double media = (nota1+nota2+nota3)/3;
     /* if para decir la nota */
-    if ((media >= 0)&&(media <=4.99)){
+    if ((media >= 0)&&(media < 5)){
       boletin = "insuficiente";
     } 
-    else if ((media >= 5)&&(media <=5.99)){
+    else if ((media >= 5)&&(media < 6)){
       boletin = "suficiente";
     } 
-    else if ((media >= 6)&&(media <=6.99)){
+    else if ((media >= 6)&&(media < 7)){
       boletin = "bien";
     } 
-    else if ((media >= 7)&&(media <=8.99)){
+    else if ((media >= 7)&&(media < 9)){
       boletin = "notable";
     } 
-    else if ((media >= 9)&&(media <=10)){
+    else if ((media >= 9)&&(media <= 10)){
       boletin = "sobresaliente";
     } else {
       boletin = "errónea, revisa los datos";

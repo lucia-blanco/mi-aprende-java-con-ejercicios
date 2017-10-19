@@ -13,25 +13,25 @@
     /* Switch para encontrar día */
     switch (diaSem){
         case 1:
-          System.out.print("lunes");
+          System.out.print("Lunes");
           break;
         case 2:
-          System.out.print("martes");
+          System.out.print("Martes");
           break;
         case 3:
-          System.out.print("miércoles");
+          System.out.print("Miércoles");
           break;
         case 4:
-          System.out.print("jueves");
+          System.out.print("Jueves");
           break;
         case 5:
-          System.out.print("viernes");
+          System.out.print("Viernes");
           break;
         case 6:
-          System.out.print("sábado");
+          System.out.print("Sábado");
           break;
         case 7:
-          System.out.print("domingo");
+          System.out.print("Domingo");
           break;
         default:
           System.out.print("¿Qué parte de número del 1 al 7 no entendiste?");
