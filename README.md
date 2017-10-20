@@ -1,4 +1,4 @@
-# Indice 
+# :page_facing_up: Indice 
 #### 1. [Descripción](#descripcion)  
 #### 2. [Compilación y ejecución de los programas](#compilacion)  
 #### 3. [Libro](#libro)
@@ -39,11 +39,12 @@ El libro utilizado en la asignatura es [Aprende Java con Ejercicios](https://lea
 
 <a name="indice"/>
 
-## INDICE DE TEMAS
+## :file_folder: INDICE DE TEMAS
 
 <a name="tema1"/>
 
 ### TEMA 01
+###### Ir a [TEMA_01](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/tree/master/TEMA_01)
 
 1. Escribe una programa que muestre tu nombre por pantalla.
 
@@ -64,6 +65,7 @@ invertida.
 <a name="tema2"/>
 
 ### TEMA 02
+###### Ir a [TEMA_02](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/tree/master/TEMA_02)
 
 1. Escribe un programa en el que se declaren las variables enteras x e y. Asignales
 los valores 144 y 999 respectivamente. A continuación, muestra por pantalla
@@ -83,6 +85,7 @@ variable.
 <a name="tema3"/>
 
 ### TEMA 03
+###### Ir a [TEMA_03](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/tree/master/TEMA_03)
 
 1. Realiza un programa que pida dos números y que luego muestre el resultado
 de su multiplicación.
@@ -110,6 +113,7 @@ segundo examen un 60%.
 <a name="tema4"/>
 
 ### TEMA 04
+###### Ir a [TEMA_04](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/tree/master/TEMA_04)
 
 1. Escribe un programa que pida por teclado un día de la semana y que diga qué
 asignatura toca a primera hora ese día.
@@ -129,3 +133,34 @@ una altura h.
 9. Realiza un programa que resuelva una ecuación de segundo grado.
 10. Escribe un programa que nos diga el horóscopo a partir del día y el mes de
 nacimiento.
+11. Escribe un programa que dada una hora determinada (horas y minutos),
+calcule los segundos que faltan para llegar a la medianoche.
+12. Realiza un minicuestionario con 10 preguntas tipo test sobre las asignaturas
+que se imparten en el curso. Cada pregunta acertada sumará un punto. El
+programa mostrará al final la calificación obtenida.
+13. Escribe un programa que ordene tres números enteros introducidos por
+teclado.
+14. Realiza un programa que diga si un número introducido por teclado es par y/o
+divisible entre 5.
+15. Escribe un programa que pinte una pirámide rellena con un carácter introducido
+por teclado que podrá ser una letra, un número o un símbolo. El programa debe permitir al usuario mediante un menú elegir si
+el vértice de la pirámide está apuntando hacia arriba, hacia abajo, hacia la
+izquierda o hacia la derecha.
+16. Test de infidelidad. El programa irá haciendo preguntas que el usuario
+contestará con verdadero o falso. Cada pregunta contestada como verdadero
+sumará 3 puntos.
+17. Escribe un programa que diga cuál es la última cifra de un número entero
+introducido por teclado.
+18. Escribe un programa que diga cuál es la primera cifra de un número entero
+introducido por teclado. Se permiten números de hasta 5 cifras.
+19. Realiza un programa que nos diga cuántos dígitos tiene un número entero que
+puede ser positivo o negativo. Se permiten números de hasta 5 dígitos.
+20. Realiza un programa que diga si un número entero positivo introducido por
+teclado es capicúa. Se permiten números de hasta 5 cifras.
+21. Calcula la nota de un trimestre de la asignatura Programación. El programa
+pedirá las dos notas que ha sacado el alumno en los dos primeros controles.
+Si la media de los dos controles da un número mayor o igual a 5, el alumno
+está aprobado y se mostrará la media. En caso de que la media sea un número
+menor que 5, el alumno habrá tenido que hacer el examen de recuperación
+que se califica como apto o no apto, si elresultado de la recuperación es apto, la nota será un 5; 
+en caso contrario, se mantiene la nota media anterior.
