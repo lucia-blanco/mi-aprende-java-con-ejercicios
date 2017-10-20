@@ -120,7 +120,7 @@
       System.out.println(r+"¡Oh, no!, la respuesta es incorrecta.");
     }
     //Décima
-    System.out.println(c+"\n 10) ¿A cuántos espaciados debería equivaler una tabulación seegún el estándar de Google?");
+    System.out.println(c+"\n 10) ¿A cuántos espaciados debería equivaler una tabulación según el estándar de Google?");
     System.out.println(b+"a) 1");
     System.out.println("b) 2");
     System.out.println("c) 3");
