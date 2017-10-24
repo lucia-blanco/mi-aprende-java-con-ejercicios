@@ -3,10 +3,10 @@
 #### 2. [Compilación y ejecución de los programas](#compilacion)  
 #### 3. [Libro](#libro)
 #### 4. [Indice de Temas](#indice)
-  + [Tema 01](#tema1)
-  + [Tema 02](#tema2)
-  + [Tema 03](#tema3)
-  + [Tema 04](#tema4)
+  + [Tema 01 | Salida de datos por pantalla](#tema1)
+  + [Tema 02 | Variables](#tema2)
+  + [Tema 03 | Lectura de datos desde teclado](#tema3)
+  + [Tema 04 | Sentencia condicional](#tema4)
 
 <a name="descripcion"/>
 
@@ -43,7 +43,7 @@ El libro utilizado en la asignatura es [Aprende Java con Ejercicios](https://lea
 
 <a name="tema1"/>
 
-### TEMA 01
+### TEMA 01 Salida de datos por pantalla
 ###### Ir a [TEMA_01](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/tree/master/TEMA_01)
 
 [1.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_01/Ejercicio1_1.java) Escribe una programa que muestre tu nombre por pantalla.  
@@ -59,7 +59,7 @@ distribuidas en dos columnas y alineadas a la izquierda.
 
 <a name="tema2"/>
 
-### TEMA 02
+### TEMA 02 Variables
 ###### Ir a [TEMA_02](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/tree/master/TEMA_02)
 
 [1.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_02/Ejercicio1_2.java) Escribe un programa en el que se declaren las variables enteras x e y. Asignales los valores 144 y 999 respectivamente. A continuación, muestra por pantalla el valor de cada variable, la suma, la resta, la división y la multiplicación.  
@@ -71,7 +71,7 @@ distribuidas en dos columnas y alineadas a la izquierda.
 
 <a name="tema3"/>
 
-### TEMA 03
+### TEMA 03 Lectura de datos desde teclado
 ###### Ir a [TEMA_03](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/tree/master/TEMA_03)
 
 [01.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_03/Ejercicio01_3.java) Realiza un programa que pida dos números y que luego muestre el resultado
@@ -90,7 +90,7 @@ de su multiplicación.
 
 <a name="tema4"/>
 
-### TEMA 04
+### TEMA 04 Sentencia condicional
 ###### Ir a [TEMA_04](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/tree/master/TEMA_04)
 
 [01.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_04/Ejercicio01_4.java) Escribe un programa que pida por teclado un día de la semana y que diga qué asignatura toca a primera hora ese día.   
