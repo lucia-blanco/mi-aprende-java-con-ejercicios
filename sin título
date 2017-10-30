@@ -1,0 +1,14 @@
+/**
+ * Ejercicio 1 | Tema 5
+ * Imprime todos los múltiplos de 5 del 0 al 100.
+ * @author Lucia Blanco
+ */
+ 
+ public class Ejercicio01_5 { // Clase principal
+  public static void main(String[] args) {
+    int i = 1;
+    for (i<=100, i%5=0, i++;){
+      System.out.print(i " ");
+    {
+  }
+}
