@@ -1,10 +1,10 @@
 /**
- * Ejercicio 21 | Tema 5
+ * Ejercicio 23 | Tema 5
  * Introduce una serie de números hasta que su sumatorio sea < 1000 y hace la media.
  * @author Lucia Blanco
  */
  
- public class Ejercicio21_5 { // Clase principal
+ public class Ejercicio23_5 { // Clase principal
   public static void main(String[] args) {
     double num = 0;
     double dividendo = 0;
