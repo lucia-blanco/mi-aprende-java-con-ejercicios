@@ -7,12 +7,13 @@
   + [Tema 02 | Variables](#tema2)
   + [Tema 03 | Lectura de datos desde teclado](#tema3)
   + [Tema 04 | Sentencia condicional](#tema4)
+  + [Tema 05 | Bucles] (#tema5)
 
 <a name="descripcion"/>
 
 ## :pencil: DESCRIPCIÓN
 
-Solución a los ejercicios del libro Aprende Java con Ejercicios para la asignatura de Programación en el CFGS de DAW (Desarrollo de Aplicaciones Web) en @IESCampanillas.
+Solución a los ejercicios del libro Aprende Java con Ejercicios para la asignatura de Programación en el CFGS de DAW (Desarrollo de Aplicaciones Web) en [@IESCampanillas.](https://github.com/iescampanillas)
 
 <a name="compilacion"/>
 
@@ -122,3 +123,35 @@ Si la media de los dos controles da un número mayor o igual a 5, el alumno est�
 [23.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_04/Ejercicio23_4.java) Escribe un programa que calcule el precio final de un producto según su base imponible (precio antes de impuestos), el tipo de IVA aplicado (general,
 reducido o superreducido) y el código promocional. Los tipos de IVA general, reducido y superreducido son del 21%, 10% y 4% respectivamente. Los códigos promocionales pueden ser nopro, mitad, meno5 o 5porc.  
 [24.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_04/Ejercicio24_4.java) Escribe un programa que genere la nómina (bien desglosada) de un empleado según las condiciones determinadas.  
+
+<a name="tema5"/>
+
+### TEMA 05 Bucles
+###### Ir a [TEMA_05](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/tree/master/TEMA_05)
+
+[01.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio01_5.java) Muestra los números múltiplos de 5 de 0 a 100 utilizando un bucle for.
+[02.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio02_5.java) Muestra los números múltiplos de 5 de 0 a 100 utilizando un bucle while.
+[03](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio03_5.java) Muestra los números múltiplos de 5 de 0 a 100 utilizando un bucle do-while.
+[04](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio04_5.java) Muestra los números del 320 al 160, contando de 20 en 20 hacia atrás utilizando un bucle for.
+[05](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio05_5.java) Muestra los números del 320 al 160, contando de 20 en 20 hacia atrás utilizando un bucle while
+[06](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio06_5.java) Muestra los números del 320 al 160, contando de 20 en 20 hacia atrás utilizando un bucle do-while.
+[07](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio07_5.java) Realiza el control de acceso a una caja fuerte. La combinación será un número de 4 cifras. El programa nos pedirá la combinación para abrirla.
+[08](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio08_5.java) Muestra la tabla de multiplicar de un número introducido por teclado.
+[09](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio09_5.java) Realiza un programa que nos diga cuántos dígitos tiene un número introducido por teclado.
+[10](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio10_5.java) Escribe un programa que calcule la media de un conjunto de números positivos introducidos por teclado.
+[11](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio11_5.java) Escribe un programa que muestre en tres columnas, el cuadrado y el cubo de los 5 primeros números enteros a partir de uno que se introduce por teclado.
+[12](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio12_5.java) Escribe un programa que muestre los n primeros términos de la serie de Fibonacci.
+[13](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio13_5.java) Escribe un programa que lea una lista de diez números y determine cuántos son positivos, y cuántos son negativos.
+[14](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio14_5.java) Escribe un programa que pida una base y un exponente (entero positivo) y que calcule la potencia.
+[15](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio15_5.java) Escribe un programa que dados dos números, uno real (base) y un entero positivo (exponente), saque por pantalla todas las potencias con base el numero dado y exponentes entre uno y el exponente introducido.
+[16](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio16_5.java) Escribe un programa que diga si un número introducido por teclado es o no primo.
+[17](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio17_5.java) Realiza un programa que sume los 100 números siguientes a un número entero y positivo introducido por teclado.
+[18](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio18_5.java) Escribe un programa que obtenga los números enteros comprendidos entre dos números introducidos por teclado y validados como distintos, el programa debe empezar por el menor de los enteros introducidos e ir incrementando de 7 en 7.
+[19](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio19_5.java) Realiza un programa que pinte una pirámide por pantalla. La altura y el caracter con el que se pinta, se deben pedir por teclado.
+[20](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio20_5.java) Igual que el ejercicio anterior pero esta vez se debe pintar una pirámide hueca.
+[21](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio21_5.java) Realiza un programa que vaya pidiendo números hasta que se introduzca un numero negativo y nos diga cuantos números se han introducido, la media de los impares y el mayor de los pares.
+[22](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio22_5.java) Muestra por pantalla todos los números primos entre 2 y 100, ambos incluidos.
+[23](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio23_5.java) Escribe un programa que permita ir introduciendo una serie indeterminada de números mientras su suma no supere el valor 10000. Cuando esto último ocurra, se debe mostrar el total acumulado, el contador de los números introducidos y la media.
+[24](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio24_5.java) Pirámide con números.
+[25](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio25_5.java) Realiza un programa que pida un número por teclado y que luego muestre ese número al revés.
+[26](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio26_5.java) Realiza un programa que pida primero un número y a continuación un dígito. El programa nos debe dar la posición (o posiciones) contando de izquierda a derecha que ocupa ese dígito en el número introducido.
