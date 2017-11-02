@@ -9,7 +9,8 @@
   boolean primo = true;
   System.out.print("Introduce el numero ");
   int num = Integer.parseInt(System.console().readLine());
-    for (int i = 2; i < num-1; i++){
+  
+    for (int i = 2; i < num; i++){
       if ((num%i) == 0){
         primo = false;
       } else {

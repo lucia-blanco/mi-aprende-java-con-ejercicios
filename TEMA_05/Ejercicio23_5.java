@@ -1,6 +1,6 @@
 /**
  * Ejercicio 23 | Tema 5
- * Introduce una serie de números hasta que su sumatorio sea < 1000 y hace la media.
+ * Introduce una serie de números hasta que su sumatorio sea < 10000 y hace la media.
  * @author Lucia Blanco
  */
  
@@ -10,11 +10,11 @@
     double dividendo = 0;
     double contador = 0;
     do{
-      System.out.print("Introduce un número ");
+      System.out.print("Introduce un número: ");
       num = Double.parseDouble(System.console().readLine());
       dividendo = dividendo + num;
       contador++;
-    } while (dividendo < 1000);
+    } while (dividendo < 10000);
     dividendo -= num;
     double media = (dividendo-num)/(contador-2);
     System.out.println("Ha introducido "+contador+" números.");
