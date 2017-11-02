@@ -10,9 +10,11 @@
     int numUs = Integer.parseInt(System.console().readLine());
     int suma = 0;
     for (int i = 1; i < numUs; i++){
-      if (numUs%3 == 0){
-        suma += numUs;
+      if (i%3 == 0){
+        System.out.print(i+" ");
+        suma += i;
       }
     }
+    System.out.print("\n La suma de los múltiplos de 3 entre "+numUs+" y 1 (los números de arriba), es: "+suma);
   }
 }
