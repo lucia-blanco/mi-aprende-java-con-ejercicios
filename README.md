@@ -1,8 +1,8 @@
 # :page_facing_up: Indice 
-#### 1. [Descripción](#descripcion)  
-#### 2. [Compilación y ejecución de los programas](#compilacion)  
-#### 3. [Libro](#libro)
-#### 4. [Indice de Temas](#indice)
+### 1. [Descripción](#descripcion)  
+### 2. [Compilación y ejecución de los programas](#compilacion)  
+### 3. [Libro](#libro)
+### 4. [Indice de Temas](#indice)
   + [Tema 01 | Salida de datos por pantalla](#tema1)
   + [Tema 02 | Variables](#tema2)
   + [Tema 03 | Lectura de datos desde teclado](#tema3)
@@ -162,3 +162,12 @@ reducido o superreducido) y el código promocional. Los tipos de IVA general, re
 [31.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio31_5.java) Realiza un programa que pinte la letra L por pantalla hecha con asteriscos.  
 [32.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio32_5.java) Escribe un programa que, dado un número entero, diga cuáles son y cuánto suman los dígitos pares. Los dígitos pares se deben mostrar en orden, de izquierda a derecha.  
 [33.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio33_5.java) Realiza un programa que pinte la letra U por pantalla hecha con asteriscos.  
+[34.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio34_5.java) Escribe un programa que pida dos números por teclado y que luego mezcle en dos números diferentes los dígitos pares y los impares. Se van comprobando los dígitos de la siguiente manera: primer dígito del primer número, primer dígito del segundo número, segundo dígito del primer número, segundo dígito del segundo número, tercer dígito del primer número…  
+[35.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio35_5.java) Realiza un programa que pinte una X hecha de asteriscos.  
+[36.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio36_5.java) Escribe un programa que diga si un número introducido por teclado es o no capicúa.  
+[37.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio37_5.java) Realiza un conversor del sistema decimal al sistema de “palotes”.  
+[38.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio38_5.java) Realiza un programa que pinte un reloj de arena relleno hecho de asteriscos. El programa debe pedir la altura.  
+[39.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio39_5.java) Escribe un programa que pida un número entero positivo por teclado y que muestre a continuación los números desde el 1 al número introducido junto con su factorial.  
+[40.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio40_5.java) Realiza un programa que pinte por pantalla un rombo hueco hecho con asteriscos.  
+[41.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio41_5.java) Escribe un programa que diga cuántos dígitos pares y cuántos dígitos impares hay dentro de un número.  
+
