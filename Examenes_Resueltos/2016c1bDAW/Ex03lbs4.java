@@ -21,7 +21,7 @@
       } else {
         System.out.print(sin);
       }
-      for (int asteris = 0; asteris < fil; asteris++){
+      for (int asterisco = 0; asterisco < fil; asterisco++){
         System.out.print("*");
       }
       System.out.println();
