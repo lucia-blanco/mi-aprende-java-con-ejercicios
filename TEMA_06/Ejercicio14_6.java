@@ -6,33 +6,42 @@
  
  public class Ejercicio14_6 { // Clase principal
   public static void main(String[] args) {
-    System.out.print("Piensa un número (entre 0 y 100) e intentaré adivinarlo: ");
+    System.out.println("Piensa un número (entre 0 y 100) e intentaré adivinarlo: ");
     int i = 1;
-    final int intentos = 5;
+    final int intentos = 8;
     boolean acertado = false;
-    while(i <= intentos){
-      int num = (int)(Math.random()*101);
+    int maxim = 100;
+    int minim = 0;
+    while((i <= intentos)&&(!acertado)){
+      int num = (int)(Math.random()*(maxim-minim+1))+minim;
       System.out.println("¿Es el " + num + "?");
       System.out.println("[s] Sí  |  [+] Tu número es mayor  |  [-] Tu número es menor");
       String opcion = "";
-      opcion = System.console().readLine();
-      if (num == numUs){
-        acertado = true;
-        System.out.println("ENHORABUENA, HAS ACERTADO");
+      opcion = System.console().readLine().toLowerCase();
+      switch(opcion){
+        case "s":
+          acertado = true;
+          System.out.println("¡Demasiado fácil!");
+          break;
+        case "+":
+          minim = num+1;
+          break;
+        case "-":
+          maxim = num-1;
+          break;
+        default:
+          System.out.println("Comando no disponible");
+          i--;
+          break;
       }
-      if (!acertado){
-        if (num < numUs){
-          System.out.println("El número que estoy pensando es más pequeño.");
-        } else {
-          System.out.println("En número que estoy pensando es más grande.");
-        }
-        System.out.println("Te quedan " + (intentos-i) + " oportunidades.");
-        if (i < 8){
-          System.out.print("Vuelve a intentarlo: ");
-        }
+      if ((minim > maxim) || (maxim < minim)){
+        System.out.println("No seas tramposo");
+        i--;
       }
       i++;
     }
-    System.out.println("El número era el: " + num);
+    if (!acertado){
+      System.out.println("GG WP");
+    }
   }
 }

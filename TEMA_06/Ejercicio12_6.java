@@ -5,9 +5,10 @@
  */
  
  public class Ejercicio12_6 { // Clase principal
-  public static void main(String[] args) {
+  public static void main(String[] args) throws InterruptedException {
     for (int i = 1; i > 0; i++){
       System.out.print((char)((Math.random()*127)+32));
+      Thread.sleep();
     }
   }
 }
