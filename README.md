@@ -178,6 +178,7 @@ reducido o superreducido) y el código promocional. Los tipos de IVA general, re
 [46.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio46_5.java) Realiza un programa que pinte por pantalla un rectángulo hueco hecho con asteriscos. Se debe pedir al usuario la anchura y la altura. Hay que comprobar que tanto la anchura como la altura sean mayores o iguales que 2, en caso contrario se debe mostrar un mensaje de error.  
 
 <a name="tema6"/>
+
 ### TEMA 06 | Números aleatorios  
 ###### Ir a [TEMA_06](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/tree/master/TEMA_06)  
 
