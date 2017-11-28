@@ -8,6 +8,7 @@
   + [Tema 03 | Lectura de datos desde teclado](#tema3)
   + [Tema 04 | Sentencia condicional](#tema4)
   + [Tema 05 | Bucles](#tema5)
+  + [Tema 06 | Números aleatorios](#tema6)
 
 <a name="descripcion"/>
 
@@ -175,3 +176,32 @@ reducido o superreducido) y el código promocional. Los tipos de IVA general, re
 [44.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio44_5.java) Escribe un programa que sea capaz de insertar un dígito dentro de un número indicando la posición. El nuevo dígito se colocará en la posición indicada y el resto de dígitos se desplazará hacia la derecha.  
 [45.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio45_5.java) Escribe un programa que cambie un dígito dentro de un número dando la posición y el valor nuevo. Las posiciones se cuentan de izquierda a derecha empezando por el 1.  
 [46.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_05/Ejercicio46_5.java) Realiza un programa que pinte por pantalla un rectángulo hueco hecho con asteriscos. Se debe pedir al usuario la anchura y la altura. Hay que comprobar que tanto la anchura como la altura sean mayores o iguales que 2, en caso contrario se debe mostrar un mensaje de error.  
+
+### TEMA 06 | Números aleatorios  
+###### Ir a [TEMA_06](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/tree/master/TEMA_06)  
+
+[01.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio01_6.java) Escribe un programa que muestre la tirada de tres dados. Se debe mostrar también la suma total (los puntos que suman entre los tres dados).  
+[02.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio02_6.java) Realiza un programa que muestre al azar el nombre de una carta de la baraja francesa.  
+[03.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio03_6.java) Igual que el ejercicio anterior pero con la baraja española.  
+[04.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio04_6.java) Muestra 20 números enteros aleatorios entre 0 y 10 (ambos incluidos) separados por espacios.  
+[05.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio05_6.java) Muestra 50 números enteros aleatorios entre 100 y 199 (ambos incluidos) separados por espacios. Muestra también el máximo, el mínimo y la media de esos números.  
+[06.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio06_6.java) Escribe un programa que piense un número al azar entre 0 y 100. El usuario debe adivinarlo y tiene para ello 5 oportunidades. Después de cada intento fallido, el programa dirá cuántas oportunidades quedan y si el número introducido es menor o mayor que el número secreto.  
+[07.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio07_6.java) Escribe un programa que muestre tres apuestas de la quiniela en tres columnas para los 14 partidos y el pleno al quince (15 filas).  
+[08.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio08_6.java) Modifica el programa anterior para que la probabilidad de que salga un 1 sea de 1/2, la probabilidad de que salga x sea de 1/3 y la probabilidad de que salga 2 sea de 1/6.  
+[09.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio09_6.java) Realiza un programa que vaya generando números aleatorios pares entre 0 y 100 y que no termine de generar números hasta que no saque el 24. El programa deberá decir al final cuántos números se han generado.  
+[10.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio10_6.java) Realiza un programa que pinte por pantalla diez líneas formadas por caracteres. El carácter con el que se pinta cada línea se elige de forma aleatoria
+entre uno de los dados. Las líneas deben tener una longitud aleatoria entre 1 y 40 caracteres.  
+[11.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio11_6.java) Escribe un programa que muestre 20 notas generadas al azar. Las notas deben aparecer de la forma: suspenso, suficiente, bien, notable o sobresaliente. Al final aparecerá el número de suspensos, el número de suficientes, el número de bienes, etc.  
+[12.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio12_6.java) Realiza un programa que llene la pantalla de caracteres aleatorios (a lo Matrix) con el código ascii entre el 32 y el 126. Puedes hacer casting con (char) para convertir un entero en un carácter.  
+[13.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio13_6.java) Escribe un programa que simule la tirada de dos dados. El programa deberá continuar tirando los dados una y otra vez hasta que en alguna tirada los dos dados tengan el mismo valor.  
+[14.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio14_6.java) Realiza un programa que haga justo lo contrario a lo que hace el ejercicio 6. El programa intentará adivinar el número que estás pensando - un número entre 0 y 100 - teniendo para ello 5 oportunidades. En cada intento fallido, el programa debe preguntar si el número que estás pensando es mayor o menor que el que te acaba de decir.  
+[15.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio15_6.java) Realiza un generador de melodía.  
+[16.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio16_6.java) Realiza un simulador de máquina tragaperras simplificada.  
+[17.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio17_6.java) Realiza un programa que pinte por pantalla una pecera con un pececito dentro.  
+[18.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio18_6.java) Realiza un programa que genere de forma aleatoria una secuencia de tres colores aleatorios (uno para cada dormitorio) de tal forma que no se repita ninguno. Los colores entre los que debe elegir el programa son los siguientes: rojo, azul, verde, amarillo, violeta y naranja.  
+[19.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio19_6.java) Escribe un programa que muestre 50 números enteros aleatorios comprendidos entre el -100 y el 200 ambos incluidos y separados por espacios. Muestra luego el máximo de los pares el mínimo de los impares y la media de todos los números generados.  
+[20.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio20_6.java) Realiza un programa que pinte por pantalla una cuba con cierta cantidad de agua. La capacidad será indicada por el usuario. La cuba se llenará con una cantidad aleatoria de agua que puede ir entre 0 y la capacidad máxima que pueda admitir. El ancho de la cuba no varía.  
+[21.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio21_6.java) Realiza un programa que genere una secuencia de cinco monedas de curso legal lanzadas al aire.  
+[22.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio22_6.java) Realiza un programa que pinte por pantalla una serpiente con un “serpenteo” aleatorio.  
+[23.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio23_6.java) Las caras de un dado de poker tienen las siguientes figuras: As, K, Q, J, 7 y 8. Escribe un programa que genere de forma aleatoria la tirada de cinco dados.  
+[24.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio24_6.java) Escribe un programa que, dado un número introducido por teclado, elija al azar uno de sus dígitos.  
