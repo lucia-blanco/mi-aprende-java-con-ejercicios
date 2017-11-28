@@ -1,6 +1,6 @@
 /**
  * Ejercicio 16 | Tema 6
- * Realiza un generador de melodía.
+ * Simulador de tragaperras.
  * @author Lucia Blanco
  */
  
