@@ -210,7 +210,7 @@ entre uno de los dados. Las líneas deben tener una longitud aleatoria entre 1 y
 [24.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio24_6.java) Escribe un programa que, dado un número introducido por teclado, elija al azar uno de sus dígitos.   
 [25.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_06/Ejercicio25_6.java) Escribe un programa que muestre por pantalla 100 números enteros separados por un espacio. Los números deben estar generados de forma aleatoria en un rango entre 10 y 200 ambos incluidos. Los primos deben aparecer entre almohadillas y los múltiplos de 5 entre corchetes.  
 
-<a name="tema6"/>
+<a name="tema7"/>
 
 ### TEMA 07 | Números aleatorios  
 ###### Ir a [TEMA_07](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/tree/master/TEMA_07)    
