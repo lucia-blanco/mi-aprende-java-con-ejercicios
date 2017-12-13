@@ -1,6 +1,6 @@
 /**
  * Ejercicio 7 | Tema 7
- * Genera 100 numeros aleatorios. Pide dos valores y sustituye por el primero
+ * Genera 100 numeros aleatorios entre 0 y 20. Pide dos valores y sustituye por el primero
  * el segundo cuando salga en el array
  * @author Lucia Blanco
  */
