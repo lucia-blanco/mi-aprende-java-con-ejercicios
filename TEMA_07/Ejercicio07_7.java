@@ -1,26 +1,31 @@
 /**
- * Ejercicio 6 | Tema 7
- * Rota el array hacia la derecha
+ * Ejercicio 7 | Tema 7
+ * Genera 100 numeros aleatorios. Pide dos valores y sustituye por el primero
+ * el segundo cuando salga en el array
  * @author Lucia Blanco
  */
   
- public class Ejercicio06_7 { // Clase principal
+ public class Ejercicio07_7 { // Clase principal
   public static void main(String[] args) {
-    int[] numero = new int[10];
-    System.out.print("Introduce 15 números: ");
-    for (int i = 0; i < numero.length; i++){
-      numero[i] = Integer.parseInt(System.console().readLine());
+    int[] array = new int[100];
+    for (int i = 0; i < array.length; i++){
+      array[i] = (int)(Math.random()*21);
     }
-    //Lo rota hacia la derecha
-    int aux = numero[numero.length-1];
-    for (int i = (numero.length - 1); i > 0; --i){
-      numero[i] = numero[i-1];
+    for (int i = 0; i < array.length; i++){
+      System.out.print(array[i]+" ");
     }
-    numero[0] = aux;
-    //Imprime
     System.out.println();
-    for (int i = 0; i < numero.length; i++){
-      System.out.print(numero[i]+" ");
+    System.out.print("Introduce 1 número: ");
+    int num = Integer.parseInt(System.console().readLine());
+    System.out.print("Introduce el valor que quieres sustituir (0-20): ");
+    int sust = Integer.parseInt(System.console().readLine());
+    for (int i = 0; i < array.length; i++){
+      if (array[i] == sust){
+        System.out.print("\""+num+"\" ");
+      }
+      else {
+        System.out.print(array[i]+" ");
+      }
     }
   }
 }
