@@ -6,7 +6,7 @@
  public class Ex03lbs2 { // Clase principal
   public static void main(String[] args) {
      //Crea el array aleatorio entre 2 y 100 y lo imprime
-    int[] array = new int[20];
+    int[] array = new int[10];
     for (int i = 0; i < array.length; i++){
       array[i] = (int)((Math.random()*99)+2);
     }
