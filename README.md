@@ -212,7 +212,7 @@ entre uno de los dados. Las líneas deben tener una longitud aleatoria entre 1 y
 
 <a name="tema7"/>
 
-### TEMA 07 | Números aleatorios  
+### TEMA 07 | Arrays 
 ###### Ir a [TEMA_07](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/tree/master/TEMA_07)    
 
 [1.](https://github.com/lucia-blanco/mi-aprende-java-con-ejercicios/blob/master/TEMA_07/Ejercicio01_7.java) Define un array de 12 números enteros con nombre num y asigna los valores según la tabla que se muestra a continuación. Muestra el contenido de todos los elementos del array.  
